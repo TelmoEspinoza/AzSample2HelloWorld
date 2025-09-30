@@ -1,0 +1,7 @@
+/Users/telmoespinoza/Documents/Azure Projects/Web Apps/AzSample2HelloWorld/BlazorTelmoApp1/bin/Release/net9.0/publish/BlazorTelmoApp1
+/Users/telmoespinoza/Documents/Azure Projects/Web Apps/AzSample2HelloWorld/BlazorTelmoApp1/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/telmoespinoza/Documents/Azure Projects/Web Apps/AzSample2HelloWorld/BlazorTelmoApp1/bin/Release/net9.0/publish/appsettings.json
+/Users/telmoespinoza/Documents/Azure Projects/Web Apps/AzSample2HelloWorld/BlazorTelmoApp1/bin/Release/net9.0/publish/BlazorTelmoApp1.dll
+/Users/telmoespinoza/Documents/Azure Projects/Web Apps/AzSample2HelloWorld/BlazorTelmoApp1/bin/Release/net9.0/publish/BlazorTelmoApp1.deps.json
+/Users/telmoespinoza/Documents/Azure Projects/Web Apps/AzSample2HelloWorld/BlazorTelmoApp1/bin/Release/net9.0/publish/BlazorTelmoApp1.runtimeconfig.json
+/Users/telmoespinoza/Documents/Azure Projects/Web Apps/AzSample2HelloWorld/BlazorTelmoApp1/bin/Release/net9.0/publish/BlazorTelmoApp1.pdb
