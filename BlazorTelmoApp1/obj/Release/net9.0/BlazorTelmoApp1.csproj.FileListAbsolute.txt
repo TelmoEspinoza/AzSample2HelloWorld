@@ -76,3 +76,4 @@
 /Users/telmoespinoza/Documents/Azure Projects/Web Apps/AzSample2HelloWorld/BlazorTelmoApp1/obj/Release/net9.0/BlazorTelmoApp1.pdb
 /Users/telmoespinoza/Documents/Azure Projects/Web Apps/AzSample2HelloWorld/BlazorTelmoApp1/obj/Release/net9.0/BlazorTelmoApp1.genruntimeconfig.cache
 /Users/telmoespinoza/Documents/Azure Projects/Web Apps/AzSample2HelloWorld/BlazorTelmoApp1/obj/Release/net9.0/ref/BlazorTelmoApp1.dll
+/Users/telmoespinoza/Documents/Azure Projects/Web Apps/AzSample2HelloWorld/BlazorTelmoApp1/obj/Release/net9.0/BlazorTelmoApp1.sourcelink.json

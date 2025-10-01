@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorTelmoApp1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c231946bfefd2820668d1b81b2edb8bd6639a779")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorTelmoApp1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorTelmoApp1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
